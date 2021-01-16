@@ -118,7 +118,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+    color: rgba(255, 255, 255, 1);
 }
 
 .d-bloc .a-btn:hover,
@@ -135,7 +135,7 @@ a:hover {
 .d-bloc h5 a:hover,
 .d-bloc h6 a:hover,
 .d-bloc p a:hover {
-    color: rgba(255, 255, 255, 1);
+    color: rgba(255, 255, 255, 0.8);
 }
 
 .d-bloc .navbar-toggle .icon-bar {
@@ -760,7 +760,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: rgba(241, 113, 54, 1);
+    background-color: rgba(191, 77, 24, 1);
 }
 
 .tc-white {
@@ -768,13 +768,13 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: rgba(241, 113, 54, 1)!important;
-    color: #FFFFFF!important;
+    background: rgba(191, 77, 24, 1)!important;
+    color: #ffffff!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: rgba(241, 113, 54, 0.750)!important;
-    color: #FFFFFF!important;
+    background: rgba(191, 77, 24, 0.750)!important;
+    color: #ffffff!important;
 }
 
 .ltc-white {
@@ -786,11 +786,11 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: rgba(241, 113, 54, 1)!important;
+    color: rgba(191, 77, 24, 1)!important;
 }
 
 .ltc-atomic-tangerine:hover {
-    color: #c27956!important;
+    color: rgba(191, 77, 24, 0.750)!important;
 }
 
 .icon-dark-slate-blue {
